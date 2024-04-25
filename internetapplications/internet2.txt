@@ -1,1 +1,2 @@
-this's the second file of the project
+This's the second file of the project
+A second attempt to commit changes on the file.
